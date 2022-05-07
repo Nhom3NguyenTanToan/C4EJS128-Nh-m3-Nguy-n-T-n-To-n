@@ -1,0 +1,62 @@
+body {
+  margin:o auto;
+}
+header {
+  background-color: aquamarine;
+  height: 80px;
+  
+}
+ul {
+  display : inline-block; 
+ 
+
+}
+li {
+  list-style-type: none;
+  color:aliceblue;
+  text-align: center;
+  font-size: larger;
+  text-transform: uppercase;
+  margin: 0 40px;
+}
+table {
+  position: fixed;
+}
+.well {
+  text-align: center;
+  padding:  60px;
+  font-size: 150%;
+  margin:0px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgb(76, 136, 214);
+  padding-top: 0%;
+}
+.Ques {
+  text-align: center;
+  padding-top: 80px;
+  font-size: xx-large;
+}
+.toi {
+  font-size: xx-large;
+  text-align: center;
+}
+.child {
+  border-radius:75%;
+  width: 200px;
+  height: 100px;
+  background:blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.parent {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.child:hover {
+  color:aqua;
+  background-color: black;
+}
+

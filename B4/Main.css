@@ -1,0 +1,52 @@
+* {
+    position:relative;
+   margin-left:auto;
+   margin-right: auto;
+}
+h1 { 
+    padding:10px;
+    background-color: aqua;
+    height: 75px;
+    width: 1030px;
+}
+.card {
+    
+    border:1px solid black;
+    width: 700px;
+    border-radius: 1%;
+    height: 580px;
+    padding:150px;
+}
+h3 {
+    color: chartreuse;
+}
+em{
+    background-color: rgb(136, 104, 223);
+   border:none;
+}
+.button {
+padding:10px;
+background-color: red;
+text-decoration-line: none;
+color:white;
+}
+p {
+    font-size: larger;
+    color: rgb(112, 112, 112);
+    overflow:auto;
+    -ms-word-break: break-all;
+    width: 830px;
+}
+.container {
+    background-position: center;
+}
+h2 {
+    
+    width: 1030px;
+}
+img {
+    
+    width: 800px;
+    height: 500px;
+}
+
