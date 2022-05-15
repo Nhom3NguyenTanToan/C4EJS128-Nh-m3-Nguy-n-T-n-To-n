@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://img.uhdpaper.com/wallpaper/ayaka-genshin-impact-78@0@e-preview.jpg?dl);
+    background-position: top ;
+    padding: auto;
+    margin-left: 30%;
+    margin-top:17%;
+}
+#clock {
+ display: inline-block;
+ color: red;
+flex-direction: column;
+line-height: 1%;
+border: 10px solid rgb(108, 170, 228);
+font-size: 70px;
+padding: 5%;
+}
+.bla {
+    color:white;
+}
